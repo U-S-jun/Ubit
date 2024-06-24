@@ -8,6 +8,12 @@
 유의 발생 시 거래 종료 일 공지
 가격은 usdt기준, 레버리지는 미지원
 
+
+## ERD
+https://www.erdcloud.com/d/njFwdT59MdYYxjgoc
+
+
+
 ## use case
 
 ### 로그인
