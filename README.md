@@ -109,8 +109,7 @@ https://www.erdcloud.com/d/njFwdT59MdYYxjgoc
    1. 상장 시간 3시간 전부터 코인의 상세페이지로 투자자가 진입할 수 있다.
    2. 상장 시간부터 주문을 받는다.
 
-
-
+   .
 
 
 
